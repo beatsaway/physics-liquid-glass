@@ -8,6 +8,7 @@ This repository is a fork of the original Three.js + Rapier liquid glass metabal
 - **Preset system**: Multiple named presets, a preset dropdown, and keyboard cycling with `N`.
 - **Label reset**: Clicking any slider label tweens that value back to the current preset’s default.
 - **Scene selection**: Environment HDR JPG dropdown + default environment set to `vysok-k-men-2K`.
+- **New HDR scenes**: Additional HDRs sourced from https://cgees.com/hdris.
 - **Mouse wheel depth**: Scroll wheel moves the metaball group closer/farther from the camera.
 - **Mobile-first layout**: Same bottom panel layout on desktop and mobile, 3 sliders per row, and click‑outside to close.
 
@@ -32,3 +33,5 @@ MIT. Same as the original project.
 Forked from https://github.com/bobbyroe/physics-liquid-glass
 New features: control panel UI, more sliders, presets + dropdown, label reset,
 scene selector, mouse-wheel depth, and mobile-friendly layout.
+If you enjoy using this fork,
+buymeacoffee.com/beatsaway 🤗☕
